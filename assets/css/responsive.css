@@ -1,0 +1,79 @@
+
+ 
+@media (max-width: 575.98px) {
+    .choose-tab-this .nav-link {
+        padding: 0.5rem 1rem;
+        width: 90px;
+    }
+    /*====================Landing page responsive css================*/
+    .main_landuing_img__ {
+        margin-bottom: 14px;
+    }
+    .when-you-plant-tree .owl-prev  {
+        top: 41%!important;
+    }
+    .when-you-plant-tree .owl-next {
+        top: 41%!important;
+    }
+    .owl-prev {
+        width: 40px;
+        height: 40px; 
+        top: 38%;
+        left: -18px; 
+    }
+    .owl-next {
+        width: 40px;
+        height: 40px; 
+        top: 38%;
+        right: -15px; 
+    }
+    .onsale-btn { 
+        margin-top: 20px;
+    }
+    .top-list-here .buyer-img img { 
+        height: 54px;
+        width: 54px;
+        box-shadow: 0 0 6px 0 rgb(157 96 212 / 50%);
+        border: solid 3px transparent;
+        background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), linear-gradient( 101deg, #4e9d66, #4c549c);
+        background-origin: border-box;
+        background-clip: content-box, border-box;
+        box-shadow: 2px 1000px 1px #fff inset;
+    }
+    /*====================bid description page responsive css================*/
+    .content-line span {
+        display: block;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        width: 176px;
+    }
+    .type h6 {
+        display: block;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        width: 200px;
+    }
+    /*====================My-items page responsive css================*/
+    .profile-img1 img { 
+        height: 130px;
+        width: 130px; 
+        margin-top: -66px; 
+    }
+    .twitter_div a { 
+        width: 141px; 
+    }
+    .twitter_div a { 
+        width: 185px; 
+    }
+    /*====================end My-items page responsive css================*/
+}
+ 
+@media (min-width: 576px) and (max-width: 767.98px) { }
+ 
+@media (min-width: 768px) and (max-width: 991.98px) {   }
+ 
+@media (min-width: 992px) and (max-width: 1199.98px) {   }
+ 
+@media (min-width: 1200px) { }
